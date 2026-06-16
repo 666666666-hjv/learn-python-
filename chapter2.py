@@ -74,13 +74,14 @@ print("我今年 " + str(age) + " 岁")       # str() 把数字变字符串
 # ==========================================
 
 # 练习1：创建变量存储你最喜欢的一句话，然后打印
-# TODO: favorite_quote = ...
-# TODO: print(...)
-
+favorite_quote="我爱这个世界"
+print(favorite_quote)
 # 练习2：用变量存你的名字，然后打印一句问候
-# TODO: my_name = ...
-# TODO: print(f"...")
+my_name = "hjc"
+print(f"你好，我叫{my_name}")
 
 # 练习3：计算 156 乘以 897 的结果，打印出来
-# TODO: result = ...
-# TODO: print(...)
+a=156
+b=897
+c=a*b
+print(c)
